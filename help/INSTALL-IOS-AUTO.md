@@ -27,7 +27,7 @@ npm install react-native-background-geolocation --save
 npm install react-native-background-fetch --save
 ```
 
-- For __`background-geolocation <= 3.5.0`:__
+- For __`background-geolocation < 3.6.0`:__
 ```
 npm install react-native-background-fetch@2.7.1 --save
 ```
