@@ -12,7 +12,7 @@ yarn add react-native-background-geolocation
 yarn add react-native-background-fetch
 ```
 
-- For __`background-geolocation <= 3.5.0`__
+- For __`background-geolocation < 3.6.0`__
 ```
 yarn add react-native-background-fetch@2.7.1
 ```
